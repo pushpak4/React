@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+	<post id="1">
+		<date>February 17, 2023</date>
+		<author>Penelope Trunk</author>
+		<title>Open letter to Boston University’s business school students</title>
+		<Link>https://blog.penelopetrunk.com/2023/02/17/open-letter-to-boston-universitys-business-school-students/</Link>
+		<summary>
+			<image_path>https://blog.penelopetrunk.com/cdn/tali-training-at-the-embrace-boston-common-blogsize.jpg</image_path>
+			<text>Business opinion of students of Boston university</text>
+		</summary>
+		<body>This is first blog</body>
+	</post>
+	<post id="2">
+		<date>24 April 2023</date>
+		<author>Adam</author>
+		<title>Why NYC is My Forever Home; I’ll retire here</title>
+		<Link>https://travelsofadam.com/why-nyc-is-my-forever-home-ill-retire-here/</Link>
+		<summary>
+			<image_path>https://travelsofadam.com/wp-content/uploads/2020/02/nyc-apartments-768x517.jpg</image_path>
+			<text>This is about place in new york for moving settling down.</text>
+		</summary>
+		<body>This is second blog</body>
+	</post>
+	<post id="3">
+		<date>January 04, 2023</date>
+		<author>Will Taylor</author>
+		<title>Decorating on a Budget: Affordable and Easy Ideas</title>
+		<Link>https://www.brightbazaarblog.com/2023/04/decorating-on-a-budget-affordable-and-easy-ideas.html</Link>
+		<summary>
+			<image_path>https://www.brightbazaarblog.com/wp-content/uploads/2023/04/1.-Will-Taylor-Sofa-Modern-Half-Heigh-Painted-Pink-Grey-Wall.jpeg</image_path>
+			<text>About Interior decorating and budget reduction.</text>
+		</summary>
+		<body>This is Third blog</body>
+	</post>
+</blog>
